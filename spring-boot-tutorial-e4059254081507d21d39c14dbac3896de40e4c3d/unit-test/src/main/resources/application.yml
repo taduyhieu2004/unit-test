@@ -1,0 +1,17 @@
+#spring:
+#  datasource:
+#    password: hieu112004
+#    url: jdbc:mysql://localhost:3306/employee
+#    username: root
+#    hikari:
+#      auto-commit: false
+#      maximum-pool-size: 7
+#  jpa:
+#    show-sql: false
+#    hibernate:
+#      ddl-auto: update
+#app:
+#  datasource:
+#    password: root
+#    url: jdbc:mysql://localhost:33061/database
+#    username: root
